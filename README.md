@@ -241,4 +241,25 @@ Successfully classified network traffic based on behavioral characteristics rath
 Enhanced practical understanding of SOC-style threat detection and behavioral security models.
 
 Gained experience in integrating traffic analysis, ML classification, and real-time visualization.
-  
+
+# 📘 Learning Journey
+
+Through the WQE7001 – Cyber Security course, I developed a solid foundation in cybersecurity concepts and practical security analysis. I studied threat actors, common attacks, malware, and social engineering, gaining insight into how cyber threats operate and impact systems.
+
+The course strengthened my Windows and Linux security skills, including process monitoring, user management, log analysis, and command-line operations. I also gained hands-on experience in network security and traffic analysis, working with protocols such as TCP/IP, ARP, DNS, and HTTP/HTTPS using tools like Wireshark and Nmap.
+
+Advanced topics such as network security infrastructure, endpoint protection, cryptography, access control, and threat intelligence enhanced my understanding of defensive security mechanisms and SOC-related concepts, including alert analysis and incident response.
+
+Some challenging areas include advanced traffic analysis, log correlation, and applying cryptography in complex scenarios. To improve, I plan to continue practicing through hands-on labs, TryHackMe, and future advanced cybersecurity projects.
+
+# 🎯 Career Objective
+
+My career objective is to build a professional career in cybersecurity, with a strong focus on network security, threat detection, and defensive security operations. I aspire to work in roles that involve protecting systems and data from cyber threats, analyzing security incidents, and implementing effective security controls. In the long term, I aim to continue developing my expertise through advanced training, hands-on projects, and research, and to contribute to strengthening organizational cybersecurity resilience.
+
+# 📫 Contact Information
+
+📧 Email: marwshanfari@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/marwa-alshanfari-b99a5a30b
+
+💻 GitHub Username: MarwaAlShanfari
