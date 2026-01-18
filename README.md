@@ -159,7 +159,7 @@ This portfolio reflects my work and learning in the WQE7001 – Cyber Security c
 
 - Introductory Researching
 
-# 📁 Project Experience
+# 📁 Project Experienced 
 🔹 Project 1: GAN-Based Data Balancing for Network Intrusion Detection
 
 - Objective:
